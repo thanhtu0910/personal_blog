@@ -6,39 +6,48 @@
 
 **Login**
 
-*Feature(dùng cho phần mềm,sản phẩm)*
+*Feature:*
 
-- Login, Register
-- Support customers who forgot or lost password
+- Login, Register new account
+- Support for password recovery(forgot/lost password)
 
 
  **Home**
 
- *Feature*
+ *Feature:*
 
- - Show newest image
- - Show banner by admin choose
- - Show menu about add image, notification, message and home (image logo)
- - Have searchable
- - Login, Logout, Register
+ - Display the newest uploaded images
+ - Show banners selected by admin
+ - Navigation menu: home, notifications, messages and add-image (icon)
+ - Search image by keyword
+ - Support Login, Logout, Register
 
  **Detail image**
 
- *Feature*
+ *Feature:*
  
-- Show image by client choose with bigger size
-- Show suggest images
-- Show who upload that image 
-- Show comment under image
-- Save image into your profile
+- View selected image in large size
+- Suggest related or similar images
+- Show upload's profile
+- Comment section under the image
+- Save image to personal profile
 
 **Your profile**
 
-*Feature*
+*Feature:*
 
-- All image saved in folder
-- Infomation profile
-- All image customers upload 
+- View all image saved in folder
+- Show personal infomation profile
+- Show all images uploaded by the user 
+
+## Admin
+
+*Feature:*
+
+- Manage user (view, ban, edit info)
+- Manage banner (add, edit, delete)
+- Manage image (approve, delete, review content)
+
 
 
 
