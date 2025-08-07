@@ -14,22 +14,35 @@
 
  **Home**
 
- *Feature(dùng cho phần mềm,sản phẩm)*
+ *Feature*
 
  - Show newest image
  - Show banner by admin choose
- - Show menu about add image, notification, message and home
+ - Show menu about add image, notification, message and home (image logo)
  - Have searchable
  - Login, Logout, Register
 
  **Detail image**
 
- *Feature(dùng cho phần mềm,sản phẩm)*
+ *Feature*
  
 - Show image by client choose with bigger size
 - Show suggest images
 - Show who upload that image 
 - Show comment under image
+- Save image into your profile
+
+**Your profile**
+
+*Feature*
+
+- All image saved in folder
+- Infomation profile
+- All image customers upload 
+
+
+
+
 
 
 
